@@ -1,0 +1,57 @@
+html {
+  background: url(images/pexels-poranimm-athithawatthee-842401.jpg) no-repeat
+    center fixed;
+  background-size: cover;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin: 10px auto;
+  padding: 25px;
+  width: 625px;
+}
+
+h1 {
+  text-shadow: 2px 2px red;
+}
+
+h3 {
+  color: brown;
+}
+
+li {
+  text-align: left;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: darkred;
+  font-style: italic;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+.larger-text {
+  font-size: xx-large;
+}
+
+.smaller-text {
+  color: grey;
+  font-size: smaller;
+}
+
+.white-background {
+  background-color: white;
+  border-radius: 10px;
+}
+
+#push-text-down {
+  color: white;
+  padding-top: 250px;
+}
